@@ -1,25 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "C:\\BTH\\nhom4\\nhom4.csproj": {}
+    "C:\\Son_Khoat_nhom4\\nhom4.csproj": {}
   },
   "projects": {
-    "C:\\BTH\\nhom4\\nhom4.csproj": {
+    "C:\\Son_Khoat_nhom4\\nhom4.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\BTH\\nhom4\\nhom4.csproj",
+        "projectUniqueName": "C:\\Son_Khoat_nhom4\\nhom4.csproj",
         "projectName": "nhom4",
-        "projectPath": "C:\\BTH\\nhom4\\nhom4.csproj",
-        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\BTH\\nhom4\\obj\\",
+        "projectPath": "C:\\Son_Khoat_nhom4\\nhom4.csproj",
+        "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
+        "outputPath": "C:\\Son_Khoat_nhom4\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {

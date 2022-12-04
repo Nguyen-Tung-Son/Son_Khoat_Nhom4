@@ -16553,6 +16553,117 @@
     "CSharpLanguageVersion": 1100
   },
   "RootNamespace": "nhom4",
-  "Documents": [],
+  "Documents": [
+    {
+      "FilePath": "c:\\Son_Khoat_nhom4\\Views\\Danhsachnhanvien\\Create.cshtml",
+      "TargetPath": "Views\\Danhsachnhanvien\\Create.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Son_Khoat_nhom4\\Views\\Danhsachkhachhang\\Edit.cshtml",
+      "TargetPath": "Views\\Danhsachkhachhang\\Edit.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Son_Khoat_nhom4\\Views\\DanhsachNCC\\Index.cshtml",
+      "TargetPath": "Views\\DanhsachNCC\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Son_Khoat_nhom4\\Views\\DanhsachNCC\\Create.cshtml",
+      "TargetPath": "Views\\DanhsachNCC\\Create.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Son_Khoat_nhom4\\Views\\Danhsachnhanvien\\Details.cshtml",
+      "TargetPath": "Views\\Danhsachnhanvien\\Details.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Son_Khoat_nhom4\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+      "TargetPath": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Son_Khoat_nhom4\\Views\\DanhsachNCC\\Edit.cshtml",
+      "TargetPath": "Views\\DanhsachNCC\\Edit.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Son_Khoat_nhom4\\Views\\Shared\\Error.cshtml",
+      "TargetPath": "Views\\Shared\\Error.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Son_Khoat_nhom4\\Views\\Danhsachkhachhang\\Index.cshtml",
+      "TargetPath": "Views\\Danhsachkhachhang\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Son_Khoat_nhom4\\Views\\Home\\Privacy.cshtml",
+      "TargetPath": "Views\\Home\\Privacy.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Son_Khoat_nhom4\\Views\\_ViewImports.cshtml",
+      "TargetPath": "Views\\_ViewImports.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Son_Khoat_nhom4\\Views\\DanhsachNCC\\Delete.cshtml",
+      "TargetPath": "Views\\DanhsachNCC\\Delete.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Son_Khoat_nhom4\\Views\\Danhsachnhanvien\\Edit.cshtml",
+      "TargetPath": "Views\\Danhsachnhanvien\\Edit.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Son_Khoat_nhom4\\Views\\Home\\Index.cshtml",
+      "TargetPath": "Views\\Home\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Son_Khoat_nhom4\\Views\\Danhsachnhanvien\\Index.cshtml",
+      "TargetPath": "Views\\Danhsachnhanvien\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Son_Khoat_nhom4\\Views\\DanhsachNCC\\Details.cshtml",
+      "TargetPath": "Views\\DanhsachNCC\\Details.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Son_Khoat_nhom4\\Views\\Shared\\_Layout.cshtml",
+      "TargetPath": "Views\\Shared\\_Layout.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Son_Khoat_nhom4\\Views\\Danhsachkhachhang\\Create.cshtml",
+      "TargetPath": "Views\\Danhsachkhachhang\\Create.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Son_Khoat_nhom4\\Views\\Danhsachkhachhang\\Details.cshtml",
+      "TargetPath": "Views\\Danhsachkhachhang\\Details.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Son_Khoat_nhom4\\Views\\Danhsachkhachhang\\Delete.cshtml",
+      "TargetPath": "Views\\Danhsachkhachhang\\Delete.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Son_Khoat_nhom4\\Views\\Danhsachnhanvien\\Delete.cshtml",
+      "TargetPath": "Views\\Danhsachnhanvien\\Delete.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Son_Khoat_nhom4\\Views\\_ViewStart.cshtml",
+      "TargetPath": "Views\\_ViewStart.cshtml",
+      "FileKind": "mvc"
+    }
+  ],
   "SerializationFormat": "0.2"
 }
